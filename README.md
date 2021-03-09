@@ -1,5 +1,5 @@
 # GoTourSolutions
-My Solutions for exercises in A TOUR OF GO
+My solutions for exercises in A TOUR OF GO
 
 https://tour.golang.org/welcome/1
 
